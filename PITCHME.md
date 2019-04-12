@@ -1,8 +1,6 @@
 
 
-# Immersive 
-# experiences
-# for Learning
+# Immersive experiences for Learning
 
 Exploring the design and affordances of
 The Askwith Kenner Global Languages 
