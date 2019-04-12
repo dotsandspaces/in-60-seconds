@@ -1,10 +1,6 @@
+## Immersive experiences for Learning
 
-
-# Immersive experiences for Learning
-
-Exploring the design and affordances of
-The Askwith Kenner Global Languages 
-& Cultures Room
+## Exploring the design and affordances of The Askwith Kenner Global Languages & Cultures Room
 
 Stephan Caspar 
 Carnegie Mellon University
@@ -12,6 +8,7 @@ Carnegie Mellon University
 ![](/Users/user/Desktop/NEALTT Presentation/lonely-planet-698649-unsplash.jpg)
 
 ^ In this session, we'll explore the design and affordances of the Askwith Kenner Global Languages & Cultures Room at Carnegie Mellon University. We will talk about the room, talk about some of the ways we're introducing immersive technologies and how we might support the adoption of VR technology in our programmes. *introduction - background in media production, taught as a graphics and media teacher, before moving into learning technologies at the University of Southampton, UK, leading the digital learning team. Moved to Pittsburgh in August last year to teach and curate projects in the global languages room. 
+
 ***
 
 ## The Askwith Kenner 
